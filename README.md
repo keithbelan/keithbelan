@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! I'm Keith Brian Elangikal
 
-<!--
-**keithbelan/keithbelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+### Technical Skills
+- **Languages & Databases:** Python (Pandas, NumPy), SQL (MySQL)
+- **Visualization:** Tableau
+- **Tools & Spreadsheet Skills:** Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, HLOOKUP, Conditional Formatting, Data Validation), Google Workspace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Focusing On
+- Writing SQL queries and practicing data cleaning (handling null values and data types).
+- Working on data analytics projects, analyzing data, and building my portfolio.
+
